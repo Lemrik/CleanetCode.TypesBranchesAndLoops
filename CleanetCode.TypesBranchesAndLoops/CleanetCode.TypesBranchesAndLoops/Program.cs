@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 Console.WriteLine("Hello, World!");
 
 // литералы - значения
@@ -33,7 +33,6 @@ Console.WriteLine(name);
 name = "Lemrik";
 Console.WriteLine(name);
 
-//декримент
 int countOfVideos = 100;
 countOfVideos = countOfVideos + 1;
 countOfVideos = ++countOfVideos;
